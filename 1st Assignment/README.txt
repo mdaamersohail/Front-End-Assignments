@@ -1,3 +1,0 @@
-About This Assignment....
-
-Creating HTML Code which shows some example of: Title bar, Headings, Paragraphs, Hyperlinks, Horizontal Lines, Italic Font, Bold Font, Important Text, Emphasized text, Font Color , Font Style & other Font Styles
