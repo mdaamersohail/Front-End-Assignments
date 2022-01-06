@@ -6,3 +6,4 @@
 <b>Assignment 5 - </b> Prepare a HTML Page Using Different CSS Applying Methods <br>
 <b>Assignment 6 - </b> Adding Bootstrap tables with own CSS styles & adding this table to Celebrity Bio HTML File. <br>
 <b>Assignment 7 - </b> Creating Portfolio With HTML & CSS Styles. <br>
+<b>Assignment 8 - </b> Login & Signup Form using HTML & CSS only. <br>
