@@ -1,0 +1,36 @@
+*{
+    margin: 5;
+    padding: 0;
+    /* background-color: rgb(70, 252, 206); */
+}
+
+.form-class{
+    height: 8%;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    width: 13%;
+    margin: 0 auto;
+    margin-top: 10%;
+    margin-left: 41%;
+    background: blueviolet;
+    color: white;
+
+}
+
+.form-class1{
+    height: 85%;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    width: 645px;
+    margin: 0 auto;
+    margin-top:2%;
+    margin-left: 35%;
+    background: blueviolet;
+    color: white;
+
+}
+
+
+
