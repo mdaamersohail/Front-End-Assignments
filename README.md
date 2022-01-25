@@ -11,5 +11,5 @@
 <b>Assignment 9 - Signup form.</b> <br>
 <b>Assignment 10 - Apply Border, color, font properties on the wiki page created in the past </b> <br>
 <b>Assignment 11 - Create Bootstrap grid & apply color to different section </b> <br>
-<b>Assignment 12 - Using JavaScript For Loop for creating different pattern </b> <br>
+<b>Assignment 12 - Using JavaScript For Loop for creating different number pattern </b> <br>
 <b>Assignment 13 - Using JavaScript for Multiplying even and odd numbers </b> <br>
