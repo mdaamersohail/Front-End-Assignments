@@ -1,0 +1,81 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(226, 226, 226);
+    color: white;
+    padding-top: 15vh;
+}
+
+.container1 {
+    width: 400px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 0%;
+    align-items: center;
+    background-color: rgb(77, 77, 77);
+    border-radius: 15px;
+    padding: 25px 10px;
+    box-shadow: 0 0 15px rgb(0, 0, 0);
+}
+
+.container2 {
+    width: 400px;
+    height: 490px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 0%;
+    align-items: center;
+    background-color: rgb(77, 77, 77);
+    border-radius: 15px;
+    padding: 25px 10px;
+    box-shadow: 0 0 15px rgb(0, 0, 0);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+}
+
+input {
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    margin: 5px;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    background-color: rgb(5, 5, 5);
+    margin-bottom: 20px;
+}
+
+.suggestion{
+    text-align: center;
+    font-size: 15px;
+}
+
+.btns {
+    background-color: #ffffff;
+    display: flex;
+    border: none;
+    color: rgb(12, 12, 12);
+    padding: 5px 32px;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    width: 45px;
+    border-radius: 12px;
+    margin-left: 35%;
+    margin-bottom: 10px;
+}
+
+button:hover {
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
