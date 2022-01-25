@@ -9,5 +9,6 @@
 <b>Assignment 7 - Build a Portfolio.</b> <br>
 <b>Assignment 8 - Login form</b> <br>
 <b>Assignment 9 - Signup form.</b> <br>
-<b>Assignment 10 - Create Bootstrap grid & apply color to different section </b> <br>
-<b>Assignment 11 - Personal portfolio website </b> <br>
+<b>Assignment 10 - Apply Border, color, font properties on the wiki page created in the past </b> <br>
+<b>Assignment 11 - Create Bootstrap grid & apply color to different section </b> <br>
+<b>Assignment 12 - Personal portfolio website </b> <br>
