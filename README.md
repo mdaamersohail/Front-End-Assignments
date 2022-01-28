@@ -13,3 +13,4 @@
 <b>Assignment 11 - Create Bootstrap grid & apply color to different section </b> <br>
 <b>Assignment 12 - Using JavaScript For Loop for creating different number pattern </b> <br>
 <b>Assignment 13 - Using JavaScript for Multiplying even and odd numbers </b> <br>
+<b>Assignment 14 - Wedding Invitation Using HTML and CSS only </b> <br>
