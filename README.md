@@ -16,7 +16,7 @@
 <b>Assignment 14 - Print the pattern using while loop or for loop, input is only a number using JavaScript </b> <br>
 <b>Assignment 15 - Use array's, filter, map and reducefunction for group of object. </b> <br>
 <b>Assignment 16 - Build a simple Calcultor only on two numbers & Simple interest Calcultor. </b>
-<!-- <b>Assignment 17 - Find the Kth largest and Kth smallest number in an array Find the occurrence of an integer in the array. </b> <br> -->
+
 <b>Assignment 18 - Bulb switch on and off with 1 and two buttons. </b> <br>
 <b>Assignment 19 - Change background color on click of button with a color. </b> <br>
 <b>Assignment 20 - Update different heading based on scroll,mouse events . </b> <br>
@@ -26,5 +26,7 @@
 <!-- <b>Assignment 24 - Make api call and log or load the data on the page,if possible trnnsform the response of the API. </b> <br> -->
 <!-- <b>Assignment 25 - Build a drum kit using html, css and javascrpt. </b> <br> -->
 <!-- <b>Assignment 26 - Play sounds of different birds on click on their pictures sounds will play. </b> <br> -->
+
+<!-- <b>Assignment 17 - Find the Kth largest and Kth smallest number in an array Find the occurrence of an integer in the array. </b> <br> -->
 
 
