@@ -10,7 +10,7 @@
 <b>Assignment 8 - Login form</b> <br>
 <b>Assignment 9 - Signup form.</b> <br>
 <b>Assignment 10 - Apply Border, color, font properties on the wiki page created in the past </b> <br>
-<b>Assignment 11 - Create Bootstrap grid & apply color to different section </b> <br>
-<b>Assignment 12 - Using JavaScript For Loop for creating different number pattern </b> <br>
-<b>Assignment 13 - Using JavaScript for Multiplying even and odd numbers </b> <br>
-<b>Assignment 14 - Wedding Invitation Using HTML and CSS only </b> <br>
+<b>Assignment 11 - Prepare a web page using Bootstrap grid & color different section </b> <br>
+<b>Assignment 12 - Build a Wedding Invitation site Using HTML and CSS </b> <br>
+<b>Assignment 13 - init a number... print odd multiplies of odd numbers and even multiplies of even numbers using JavaScript </b> <br>
+<b>Assignment 14 - Print the pattern using while loop or for loop, input is only a number using JavaScript </b> <br>
