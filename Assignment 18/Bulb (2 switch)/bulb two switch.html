@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <title>Bulb With On Off Switch</title>
+      <script>
+         function bulbon()
+         {
+         document.getElementById("bulb").src="Attachments/bulb-on.png";
+         }
+
+         function bulboff()
+         {
+         document.getElementById("bulb").src="Attachments/bulb-off.png";
+         }
+      </script>
+   </head>
+   <body>
+      <div>
+		   <h2 id="bulbstatus">Bulb With On Off Switch</h2>
+         <img id="bulb" src="Attachments/bulb-off.png">
+         <input type="button" class="myButton" value="Bulb On" onclick="bulbon()">
+         <input type="button" class="myButton1" value="Bulb Off" onclick="bulboff()">
+      </div>
+   </body>
+</html>

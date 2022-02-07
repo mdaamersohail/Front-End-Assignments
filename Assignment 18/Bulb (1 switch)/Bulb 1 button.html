@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <div style="text-align: center;">
+    <img id="img" src="./Attachments/bulb-off.png" style="height: 300px;" alt="Bulb img"><br>
+    <button id="button" onclick="fu()">Turn OFF</button>
+  </div>
+    <script>
+    var c = 0;
+    function fu(){
+      if(c==0){
+        document.getElementById('img').src = "./Attachments/bulb-on.png";
+        document.getElementById("button").innerHTML = "Turn ON";
+        c=1;
+      }
+      else if(c==1){
+        document.getElementById("img").src = "./Attachments/bulb-off.png";
+        document.getElementById("button").innerHTML = "Turn OFF";
+        c=0;
+      }
+    }
+    </script>
+  </body>
+</html>

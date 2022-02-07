@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Document</title>
+    <style>
+        body{
+            background-color: black;
+            color: white;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2>Mouse up & Mouse down event :</h2>
+    <h2 id="demo3" onmousedown="mouseDown()" onmouseup="mouseUp()">Click me.</h2>
+    
+    <h2>Mouse over & Mouse out event :</h2>
+    <h2 id="demo1" onmouseover="mouseOver()" onmouseout="mouseOut()">Mouse over here</h2>
+
+    <h2>Wheel Event:</h2>
+
+    <h2 id="demo">click Event :</h2>
+    <button onclick="myFunction()">Click me</button>
+    <span id="myDIV" onwheel="myFunction()" style="color: white;">clicked</span>
+    
+
+
+    <script>
+        function myFunction() {
+            document.getElementById("demo").innerHTML = "You have used mouse click event";
+        }
+        function mouseOver() {
+            document.getElementById("demo1").innerHTML = "Mouse Overed";
+        }
+
+        function mouseOut() {
+            document.getElementById("demo1").innerHTML = "Mouse Out";
+        }
+        function mouseDown() {
+            document.getElementById("demo3").innerHTML = "mouse button is held down.";
+        }
+
+        function mouseUp() {
+            document.getElementById("demo3").innerHTML = "mouse button released";
+        }
+        function myFunction() {
+            document.getElementById("myDIV").style.color = "black";
+        }
+
+    </script>
+</body>
+
+</html>
